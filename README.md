@@ -6,7 +6,7 @@ Try to understand love, namely what happens during a speed dating experiment.
 - Verify the hypothesis which states that there is a decrease in self-esteem of the participants from sign-up time to 3-4 weeks after a speed dating session.
 
 ## Methodology applied to reach the goal
-- Build a data dictionary to understand the subtleties of the dataset
+- Build a data dictionary to understand the subtleties of the dataset (PDF file can be found in this folder) 
 - Try to understand how data was collected and organized throughout the whole process
 - Conduct exploratory data analysis (EDA)
 - Some simple data preprocessing
